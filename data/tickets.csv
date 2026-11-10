@@ -1,0 +1,12 @@
+
+ticket_id,category,issue_description,priority,status
+T001,Password,"I forgot my company password and cannot log in",Medium,Open
+T002,VPN,"VPN shows connection timed out when connecting",High,Open
+T003,Email,"Outlook is not opening on my laptop",Medium,In Progress
+T004,Email,"Emails are not being delivered to recipients",Medium,Open
+T005,Password,"My account is locked after multiple incorrect login attempts",High,Open
+T006,VPN,"My VPN keeps disconnecting every few minutes",High,Open
+T007,Email,"My mailbox has reached its storage limit of 10 GB",Low,Closed
+T008,Unknown,"My system is not working properly",Medium,Open
+T009,Unknown,"I am facing some problem with my account",Medium,Open
+T010,Email,"I clicked a suspicious link in an email and need help",High,Open
